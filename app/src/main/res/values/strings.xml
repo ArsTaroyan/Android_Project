@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MobileMarket</string>
+    <string name="mobile_market">Mobile Market</string>
+    <string name="login">Login</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="log_out">Log out</string>
+    <string name="price_">$ %1s</string>
+</resources>
